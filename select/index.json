@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "幽霊東京",
+  "base_artist": "Ayase",
+  "createdAt": "2026-03-20T14:49:31.873897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幽霊東京",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_幽霊東京_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幽霊東京",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/02_幽霊東京_Ayase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幽霊東京",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_幽霊東京_Ayase.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "幽霊東京",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/localdb_01_幽霊東京_Ayase.lrc",
+      "repo_name": "DtBoAqkIJzI"
+    }
+  ]
+}
